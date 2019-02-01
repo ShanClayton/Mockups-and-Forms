@@ -1,0 +1,102 @@
+body {
+  background: url("images/background.jpg");
+  background-color: #d6d6d6;
+  background-repeat: repeat-x;
+  font-family: Helvetica;
+  font-size: 12px;
+  line-height: 1.7;
+}
+/* LINKS  */
+a {
+  color:#ff3300;
+  text-decoration: none;
+  }
+
+  h1 a {
+  background: url('images/logo.png');
+  display: block;
+  width: 210px;
+  height: 200px;
+  text-align: center;
+  margin: auto;
+}
+
+  h2 {
+    font-size: 20px;
+    margin: 10px 0;
+    }
+
+  h2 a {
+    color: black;
+    text-decoration: none;
+  }
+/* LEFT SIDE MAIN INFO */
+  .container {
+  width: 800px;
+  margin: auto;
+  display: flex;
+
+}
+
+
+/* LEFT SIDE MAIN  */
+.left{
+  width: 800px;
+}
+/* LEFT SIDE ARTICLES */
+.leftcontent {
+  background: white;
+  width: 600px;
+  padding: 15px;
+  justify-content: space-around;
+}
+
+.leftcontent a {
+  font-weight: bold;
+}
+
+.leftcontent img {
+  width: 550px;
+}
+
+.postedby {
+  border-top: 1px dotted black;
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+/* RIGHT SIDE CONTENT */
+aside {
+  background: white;
+  width: 350px;
+  height: 50%;
+  padding: 24px;
+  margin-left: 15px;
+}
+
+aside a {
+  list-style: none;
+  color: black;
+  font-weight: bold;
+}
+
+aside ul {
+  list-style: none;
+  text-align: left;
+  margin-left: -40px;
+  text-decoration:
+}
+
+aside img{
+width: 100%;
+padding-left: 6px 0;
+}
+/* FOOTER */
+footer {
+  display: flex;
+  width: 80%;
+  justify-content: center;
+  padding: 43px ;
+  margin left: auto;
+
+
+}
