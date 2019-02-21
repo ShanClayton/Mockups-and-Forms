@@ -1,0 +1,244 @@
+
+/*******************************
+
+General
+
+*******************************/
+body {
+    background-color: #ffffff;
+    color: #DEE1E5;
+    font-family: Arial;
+    margin: 0 auto;
+
+}
+.container {
+  width: 800px;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+h1 {
+  position: absolute;
+  font-size: 30px;
+  color: #0E10D5;
+}
+
+h2 {
+  font-family: 'Veranda', serif;
+
+}
+
+h3 {
+font-size: 12px;
+font-weight: 600px;
+color: #34435A;
+}
+
+ul {
+  list-style: none;
+  color: #DEE1E5;
+}
+
+/*******************************
+
+Site title and Navigation
+
+*******************************/
+
+nav {
+  display: inline-block;
+  width: 800px;
+}
+
+nav a{
+  color: ##1748D3;
+}
+
+nav button {
+  background-color: #1748D3;
+  border-radius: 5px;
+  color: ghostwhite;
+  font-size: 12px;
+  float: right;
+  padding: 5px;
+
+
+}
+
+nav ul li {
+  display: inline;
+  padding: 20px 15px;
+}
+
+nav li {
+float: left;
+}
+
+nav ul{
+    float: right;
+}
+
+nav h1{
+  color: #0C62F4;
+    position: absolute;
+    margin: 15px 0 25px 25px;
+    font-size: 50px;
+  }
+
+/*******************************
+
+Header and quote button
+
+*******************************/
+
+header{
+  background:#1748D3;
+  background-image:url('images/health.jpeg');
+  background-size: cover;
+  color:ghostwhite;
+  width:auto;
+  height:450px;
+  padding: 30px 50px 0;
+}
+
+header h2{
+font-size: 40px;
+font-weight: 200px;
+}
+
+.signup {
+  width: 250px;
+}
+
+.quote {
+  background: ghostwhite;
+  border-radius: 10px;
+  color: #1748D3;
+  font-size: 15px;
+  height: 60px;
+  padding: 10px;
+  width: 130px;
+
+}
+
+/*******************************
+
+Div images title and buttons
+
+*******************************/
+.divbackcon {
+background-image: url(images/concierge.jpg);
+background-size: cover;
+border: 1px solid blue;
+border-radius: 10px;
+display: inline-block;
+height: 300px;
+margin-top: 15px;
+margin-left: 10px;
+padding: 20px 5px;
+text-align: center;
+vertical-align: top;
+width: 230px;
+}
+
+.divbackdoc {
+background-image: url(images/doctor.jpg);
+background-size: cover;
+border: 1px solid blue;
+border-radius: 10px;
+display: inline-block;
+height: 300px;
+margin-top: 15px;
+margin-left: 10px;
+padding: 20px 5px;
+text-align: center;
+vertical-align: top;
+width: 230px;
+}
+
+.divbackfam {
+background-image: url(images/business.jpg);
+background-size: cover;
+border: 1px solid blue;
+border-radius: 10px;
+display: inline-block;
+height: 300px;
+margin-top: 15px;
+margin-left: 10px;
+padding: 20px 5px;
+text-align: center;
+vertical-align: top;
+width: 230px;
+}
+
+.title {
+font-size: 12px;
+color: #838C9F;
+}
+
+.info{
+color: black;
+font-size: 12px;
+
+}
+
+
+.member {
+text-align: center;
+padding: 50px;
+font-color: black;
+}
+
+
+.plan h2 {
+  font-size: 35px;
+  color: black;
+}
+
+.leftbutton {
+background: #1748D3;
+color: ghostwhite;
+font-size: 20px;
+width: 200px;
+height: 50px;
+border-radius: 10px;
+}
+
+.rightbutton {
+font-size: 20px;
+width: 200px;
+height: 50px;
+border-radius: 10px;
+}
+
+/*******************************
+
+Footer
+
+*******************************/
+footer {
+
+  background:#DCDCDC;
+  bottom: 0;
+  text-align: center;
+}
+
+footer a {
+  font-size: 12px;
+  color: #808080;
+}
+
+ footer ul {
+   margin-left: -45px;
+ }
+
+section {
+  display: inline-block;
+  vertical-align: top;
+  padding: 50px;
+
+}

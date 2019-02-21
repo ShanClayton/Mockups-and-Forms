@@ -1,0 +1,67 @@
+/* FONTS  */
+
+/* GENERAL */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* TOP HEADER AND MENU */
+#header {
+    background: #010900;
+    color: ghostwhite;
+    overflow: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.logo {
+    background: red;
+    float: left;
+    margin-right: 25px;
+    padding: 20px;
+}
+
+.left-menu {
+    background: pink;
+    float: left;
+    color: white;
+}
+
+.left-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.left-menu ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.right-menu {
+    background: purple;
+    color: white;
+    float: right;
+}
+
+.right-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.right-menu ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+/* LARGE IMAGE */
+#large-image {
+    background: url(images/toystory.jpeg) no-repeat left center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 200px 25px;
+}
