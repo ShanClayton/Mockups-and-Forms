@@ -6,5 +6,4 @@ Collection of mockups, forms, other miscellaneous things.
 <img src="https://user-images.githubusercontent.com/25889133/52104371-30302480-259f-11e9-9706-8c05e02a39c0.png" width="500" align="center"/>
 <img src="https://user-images.githubusercontent.com/25889133/52104373-31615180-259f-11e9-9bc2-d15c7bfffb49.png" width="500" align="center"/>
 <img src="https://user-images.githubusercontent.com/25889133/53144906-f7a6b980-3552-11e9-9641-82f4de3eab6c.png" width="500" align="center"/>
-<img src="https://user-images.githubusercontent.com/25889133/53144955-33da1a00-3553-11e9-841b-5681ec252c09.png
- width="500 alight="center">
+<img src-"https://user-images.githubusercontent.com/25889133/53145046-93382a00-3553-11e9-92ab-efcb2b5d6cbd.png" width="500" align="center">
